@@ -2,10 +2,10 @@
 Clonacion de Google hecho en Tecnolochicas PRO
 ## **INDICE**
 
-* [1. Intro](https://github.com/utm21040113/clonacion_google/edit/main/README.md#1-intro)
-* [2. que construi](https://github.com/utm21040113/clonacion_google/edit/main/README.md#2-que-construi)
-* [3. Objetivo del proyecto](https://github.com/utm21040113/clonacion_google/edit/main/README.md#3-objetivos-del-proyecto)
-* [4. Link a Demo](https://github.com/utm21040113/clonacion_google/edit/main/README.md#4-link-a-demo)
+* [1. Intro](https://github.com/utm21040113/clonacion_google/blob/main/README.md#1-intro)
+* [2. que construi](https://github.com/utm21040113/clonacion_google/blob/main/README.md#2-que-construi)
+* [3. Objetivo del proyecto](https://github.com/utm21040113/clonacion_google/blob/main/README.md#3-objetivos-del-proyecto)
+* [4. Link a Demo](https://github.com/utm21040113/clonacion_google/blob/main/README.md#4-link-a-demo)
 
 ****
 
