@@ -26,4 +26,4 @@ contiene las siguientes secciones:
 aprender a utilizar las etiquetas estandar de HTML5 y CSS3.
 
 ## 4. Link a Demo
-aqui puedes visualizar mi proyecto terminado: [Clonacion de Google] (https://papaya-lebkuchen-30f4ee.netlify.app)
+aqui puedes visualizar mi proyecto terminado: [Clonacion de Google](https://papaya-lebkuchen-30f4ee.netlify.app)
